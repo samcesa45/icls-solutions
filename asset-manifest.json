@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/icls-solutions/static/css/main.45f06bc4.chunk.css",
+    "main.js": "/icls-solutions/static/js/main.f690bd46.chunk.js",
+    "main.js.map": "/icls-solutions/static/js/main.f690bd46.chunk.js.map",
+    "runtime-main.js": "/icls-solutions/static/js/runtime-main.db73d0df.js",
+    "runtime-main.js.map": "/icls-solutions/static/js/runtime-main.db73d0df.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/icls-solutions/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.149398fa.chunk.js": "/icls-solutions/static/js/2.149398fa.chunk.js",
+    "static/js/2.149398fa.chunk.js.map": "/icls-solutions/static/js/2.149398fa.chunk.js.map",
+    "static/js/3.4c0bdb91.chunk.js": "/icls-solutions/static/js/3.4c0bdb91.chunk.js",
+    "static/js/3.4c0bdb91.chunk.js.map": "/icls-solutions/static/js/3.4c0bdb91.chunk.js.map",
+    "index.html": "/icls-solutions/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/icls-solutions/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.45f06bc4.chunk.css.map": "/icls-solutions/static/css/main.45f06bc4.chunk.css.map",
+    "static/js/2.149398fa.chunk.js.LICENSE.txt": "/icls-solutions/static/js/2.149398fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db73d0df.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.149398fa.chunk.js",
+    "static/css/main.45f06bc4.chunk.css",
+    "static/js/main.f690bd46.chunk.js"
+  ]
+}
